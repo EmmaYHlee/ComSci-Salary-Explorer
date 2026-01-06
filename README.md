@@ -19,7 +19,6 @@ Download and install MiKTeX from the official website.
 ### 3. Dataset
 ComSci Salary Explorer is based on a 2025 dataset from Kaggle, so users will need to download this dataset first:
 Shamim, A. Data Science, AI & ML Job Salaries in 2025. Kaggle.com. https://www.kaggle.com/datasets/adilshamim8/salaries-for-data-science-jobs. ‌
-For more details, please check the video:
 
 ## Report Generation
 ComSci Salary Explorer provides an interactive menu that allows users to explore trends in computer science job roles, salaries, and work modes across different experience levels. Each menu option triggers a specific visualization or analysis. Users can request any combinations of the following analyses to be incorporated into the final report generated:
