@@ -1,5 +1,5 @@
 # ComSci-Salary-Explorer
-ComSci Salary Explorer is a python-based report generator designed to explore the 2025 computer science job market, discovering insights into salaries, job growth, and demand across the tech industry US and Canada. 
+ComSci Salary Explorer is a python-based report generator designed to explore the 2025 computer science job market, discovering insights into salaries, demand, and job growth across the tech industry US and Canada. 
 ## Before you start
 ### 1. Python Libraries
 Python 3.9 or higher is recommended
